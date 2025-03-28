@@ -9,7 +9,7 @@
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/cyber1.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+<a href=""><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Apple/707b35e5-a9d5-4dd0-839c-fbbb38f27152.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
