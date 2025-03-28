@@ -1,8 +1,8 @@
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/yeho.net">
+    <a href="https://github.com/qooberrie/countdown">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=qooberrie&repo=countdown&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=769dd5&bg_color=0d1117" /></a>
-    <a href="https://github.com/JoshuaThadi/Whatsapp-Automation">
+    <a href="https://github.com/qooberrie/ivenini">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=qooberrie&repo=ivenini&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=769dd5&bg_color=0d1117" /></a>
     </a>
 </div>
